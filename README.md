@@ -64,7 +64,7 @@ LangChain-LLM-Chain/
 ### Paso 1: Clonar el Repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/LangChain-LLM-Chain.git
+git clone https://github.com/ChenteChaurio/LangChain-LLM-Chain.git
 cd LangChain-LLM-Chain
 ```
 
